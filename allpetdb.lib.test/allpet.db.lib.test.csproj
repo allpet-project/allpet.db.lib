@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\allpetdb.lib\allpetdb.lib.csproj" />
+    <ProjectReference Include="..\allpetdb.lib\allpet.db.lib.csproj" />
   </ItemGroup>
 
 </Project>

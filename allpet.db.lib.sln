@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28306.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "allpetdb.lib", "allpetdb.lib\allpetdb.lib.csproj", "{0EB05521-5C5F-45F3-9F4A-D4EA16D2D189}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "allpet.db.lib", "allpetdb.lib\allpet.db.lib.csproj", "{0EB05521-5C5F-45F3-9F4A-D4EA16D2D189}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "allpetdb.lib.test", "allpetdb.lib.test\allpetdb.lib.test.csproj", "{81B513CA-C619-44B2-81BB-2311F9349C22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "allpet.db.lib.test", "allpetdb.lib.test\allpet.db.lib.test.csproj", "{81B513CA-C619-44B2-81BB-2311F9349C22}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "allpetdb.struct.lib", "allpetdb.struct.lib\allpetdb.struct.lib.csproj", "{C50DE13A-0934-4758-BC24-554B213430A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "allpet.db.struct.lib", "allpetdb.struct.lib\allpet.db.struct.lib.csproj", "{C50DE13A-0934-4758-BC24-554B213430A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
