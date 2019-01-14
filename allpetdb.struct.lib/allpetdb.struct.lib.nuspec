@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>allpetdb.struct.lib</id>
+    <version>1.0.2</version>
+    <title>allpetdb.struct.lib</title>
+    <authors>gaoxiqing</authors>
+    <owners>allpet</owners>
+    <projectUrl>https://github.com/allpet-project/allpetdb.lib</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>allpetdb.struct.lib</description>    
+    <copyright>Copyright 2019</copyright>
+    <tags>allpet db</tags>
+  </metadata>
+</package>
